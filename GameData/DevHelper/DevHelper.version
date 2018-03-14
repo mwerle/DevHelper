@@ -3,25 +3,25 @@
    "URL":"http://forum.kerbalspaceprogram.com/threads/60880",
    "DOWNLOAD":"https://kerbalstuff.com/mod/22/Magic%20Smoke%20Industries%20DevHelper",
    "CHANGE_LOG_URL":"",
-   "VERSION":{  
+   "VERSION":{
       "MAJOR":0,
       "MINOR":6,
       "PATCH":2,
-      "BUILD":0
+      "BUILD":1
    },
-   "KSP_VERSION":{  
+   "KSP_VERSION":{
       "MAJOR":1,
-      "MINOR":3,
+      "MINOR":4,
       "PATCH":1
    },
-   "KSP_VERSION_MIN":{  
+   "KSP_VERSION_MIN":{
       "MAJOR":1,
       "MINOR":3,
       "PATCH":0
    },
-   "KSP_VERSION_MIN":{  
+   "KSP_VERSION_MAX":{
       "MAJOR":1,
-      "MINOR":3,
-      "PATCH":1
+      "MINOR":4,
+      "PATCH":99
    }
 }

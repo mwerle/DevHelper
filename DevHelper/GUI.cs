@@ -65,7 +65,7 @@ namespace DevHelper
             //{
             //    DHButtons();
             //}
-            if (!isTooLateToLoad)
+            if (!isTooLateToLoad && (comboBoxList.Length > 0))
             {
                 //Auto load feature
                 //Debug.Log("combosave " + autoLoadSaveName);

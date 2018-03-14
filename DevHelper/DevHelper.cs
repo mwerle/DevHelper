@@ -45,8 +45,15 @@ namespace DevHelper
             loadConfigXML();
             FindSaves();
 
-            InitComboBox();
-            InitComboBoxScenes();
+            if(saveNames.Count > 0)
+            {
+                InitComboBox();
+                InitComboBoxScenes();
+            }
+            else
+            {
+                Destroy(this);
+            }
         }
 
         public void loadConfigXML()
